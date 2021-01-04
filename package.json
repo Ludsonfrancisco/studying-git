@@ -1,0 +1,10 @@
+{
+  "name": "estudando-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ludson Francisco <ludsonfrancisco1010@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
